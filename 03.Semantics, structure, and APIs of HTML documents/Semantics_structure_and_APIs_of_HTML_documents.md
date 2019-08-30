@@ -258,7 +258,7 @@ The element interface for an element with name name in the HTML namespace is det
 
   Most elements that are used in the body of documents and applications are categorized as flow content.
 
-  ![ha]('../images/flow_content_elements.png')
+  ![ha](../images/flow_content_elements.png)
 
 - 3.Sectioning content
 
